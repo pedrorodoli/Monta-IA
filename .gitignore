@@ -1,0 +1,9 @@
+node_modules/
+.env
+.DS_Store
+*.db
+*.sqlite
+chats.json
+user_mappings.json
+logs/
+cuadernillos/
